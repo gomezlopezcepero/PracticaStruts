@@ -1,0 +1,170 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.bienvenida {
+  float: left;
+  clear: both;
+  width: 44.375%;
+  min-height: 32px;
+  margin: 30px 0 0 26.02344%;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.bienvenida p {
+  margin-bottom: 1em;
+}
+
+.compartir {
+  float: left;
+  width: 20.75%;
+  height: 26px;
+  margin: 2px 0 0 4.74219%;
+  background: url('../images/compartir.gif') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: left top;
+}
+
+.datosidentificacion {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 6;
+  width: 47.625%;
+  min-height: 32px;
+  margin: 25px 0 0 10%;
+  font-size: 1em;
+  text-decoration: underline;
+  color: rgb(0, 0, 0);
+}
+
+.datospersonales {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 7;
+  width: 40.75%;
+  min-height: 32px;
+  margin: -32px 0 0 49.25%;
+  font-size: 1em;
+  text-decoration: underline;
+  color: rgb(0, 0, 0);
+}
+
+.element {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 0;
+  width: 80%;
+  height: 22px;
+  margin-left: 10%;
+  background-color: rgb(0, 0, 0);
+}
+
+.email {
+  float: left;
+  min-height: 19px;
+  font-size: 0.625em;
+  color: rgb(0, 0, 0);
+}
+
+.logo {
+  float: left;
+  width: 46.75%;
+  height: 69px;
+  margin-left: 10%;
+  background: url('../images/logo(2).gif') rgba(255, 255, 255, 0.95);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: left top;
+}
+
+.text {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 2;
+  width: 32.3984375%;
+  min-height: 22px;
+  margin: -20px 0 0 31.39844%;
+  font-size: 0.75em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.email-1 {
+  position: relative;
+  z-index: 4;
+  width: 32.125%;
+  margin-left: 10.125%;
+}
+
+.email-2 {
+  position: relative;
+  z-index: 8;
+  width: 31%;
+  margin: -6px 0 0 7.125%;
+}
+
+.email-3 {
+  position: relative;
+  clear: both;
+  z-index: 5;
+  width: 32.125%;
+  margin: 15px 0 0 10%;
+}
+
+.email-4 {
+  position: relative;
+  z-index: 9;
+  width: 31%;
+  margin-left: 7.07422%;
+}
+
+.email-5 {
+  position: relative;
+  clear: both;
+  z-index: 10;
+  width: 31%;
+  margin: -7px 0 0 49.1992199999%;
+}
+
+.email-6 {
+  clear: both;
+  width: 31%;
+  margin: 7px 0 0 49.1992199999%;
+}
+
+.text a,
+.text em {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}

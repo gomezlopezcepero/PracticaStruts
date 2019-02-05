@@ -1,0 +1,103 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.button_iniciar {
+  float: left;
+  clear: both;
+  width: 32.125%;
+  height: 27px;
+  margin: 32px 0 0 34.22461%;
+  border: 1px double rgb(0, 0, 0);
+  border-radius: 3px;
+  background-color: rgb(64, 152, 17);
+  font-size: 1em;
+  text-align: center;
+  color: rgb(22, 78, 10);
+}
+
+.compartir {
+  float: left;
+  width: 20.75%;
+  height: 26px;
+  margin-left: 68.51953%;
+  background: url('../images/compartir.gif') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: left top;
+}
+
+.element {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 0;
+  width: 80%;
+  height: 22px;
+  margin-left: 10%;
+  background-color: rgb(0, 0, 0);
+}
+
+.logo {
+  float: left;
+  width: 46.75%;
+  height: 69px;
+  margin-left: 10%;
+  background: url('../images/logo(2).gif') rgba(255, 255, 255, 0.95);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: left top;
+}
+
+.mesajeerror {
+  float: left;
+  clear: both;
+  width: 44.375%;
+  min-height: 32px;
+  margin: 15px 0 0 32.02344%;
+  font-size: 1em;
+  color: rgb(0, 0, 0);
+}
+
+.text {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 2;
+  width: 32.3984375%;
+  min-height: 22px;
+  margin: -22px 0 0 35.59961%;
+  font-size: 0.75em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text a,
+.text em {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}

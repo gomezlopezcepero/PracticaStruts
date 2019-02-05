@@ -1,0 +1,90 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font: 400 0.75em/1.38 Helvetica;
+  color: rgb(0, 0, 0);
+}
+
+.compartir {
+  float: left;
+  width: 20.75%;
+  height: 26px;
+  margin-left: 68.51953125%;
+  background: url('../images/compartir.gif') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: left top;
+}
+
+.element {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 0;
+  width: 80%;
+  height: 22px;
+  margin-left: 10%;
+  background-color: rgb(0, 0, 0);
+}
+
+.logo {
+  float: left;
+  width: 46.75%;
+  height: 69px;
+  margin-left: 10%;
+  background: url('../images/logo(2).gif') rgba(255, 255, 255, 0.95);
+  background-repeat: no-repeat;
+  background-size: auto auto;
+  background-position: left top;
+}
+
+.mesajeerror {
+  float: left;
+  clear: both;
+  width: 44.375%;
+  min-height: 32px;
+  margin: 16px 0 0 30.3984375%;
+  font-size: 1.333em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.text {
+  position: relative;
+  float: left;
+  clear: both;
+  z-index: 2;
+  width: 32.3984375%;
+  min-height: 22px;
+  margin: -22px 0 0 35.599609375%;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.text a,
+.text em {
+  border-top-width: 0;
+  border-right-width: 0;
+  border-bottom-width: 0;
+  border-left-width: 0;
+  border-color: transparent;
+  border-style: none;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: transparent;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  text-transform: inherit;
+  text-decoration: inherit;
+  letter-spacing: inherit;
+  word-spacing: inherit;
+  color: inherit;
+  opacity: 1;
+  word-break: normal;
+  word-wrap: normal;
+  white-space: normal;
+}
